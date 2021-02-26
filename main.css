@@ -1,0 +1,27 @@
+* {
+    background-color: darkorange;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+}
+
+.redText {
+    color: red;
+}
+
+img {
+    width: 50%;
+}
+
+.container {
+    width: 100%;
+}
+.column {
+    width: 33%;
+    float: left;
+}
